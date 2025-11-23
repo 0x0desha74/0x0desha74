@@ -1,4 +1,4 @@
-# 🌟 Mustafa Elsayed | Software Engineer | Backend | Java & .NET
+# 🌟 Mustafa Elsayed | Software Engineer | Full Stack | Java & .NET | Angular
 
 ---
 
