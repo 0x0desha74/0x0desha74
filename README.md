@@ -86,7 +86,7 @@ As a software engineer, I enjoy solving real-world problems by writing simple, c
 
 - 📧 Email: [mustafaelsayed.dev@gmail.com](mailto:mustafaelsayed.dev@gmail.com)  
 - 👤 LinkedIn: [Mustafa Elsayed](https://www.linkedin.com/in/mustafaelsayed72/)  
-- 📄 My CV: <a href="https://drive.google.com/file/d/152_jEjDPU7MynPLEK508G1E2p1kTDS6C/view?usp=drive_link" target="_blank">View CV</a>
+- 📄 My CV: <a href="https://drive.google.com/file/d/131hckNK-sM5J4Bw0wKv-q1lz3ur8PJqF/view?usp=sharing" target="_blank">View CV</a>
 
 ---
 
